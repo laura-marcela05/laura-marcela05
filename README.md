@@ -1,5 +1,6 @@
-<!-
-CONFIG FULL_NAME: Laura Marcela Quintero Poveda 
+<!--
+CONFIG 
+FULL_NAME: Laura Marcela Quintero Poveda 
 GITHUB_USER: laura-marcela05
 -->
 
